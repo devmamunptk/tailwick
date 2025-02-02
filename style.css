@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Public Sans", serif !important;
+    background-color: #F1F5F9 !important;
+}
+
+
+.card ul li {
+    list-style: none;
+}
+
+.text-ellips {
+    width: 71px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
+
+.msg{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.quantity{
+    font-size: 12px;
+    color: #3B82F6;
+    background-color: #DBEAFE;
+    padding: 4px;
+    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+}
+
+.requests{
+    font-size: 14px;
+}
+
+.search {
+    width: 94%;
+}
+
+.chat-active {
+    font-size: 9px;
+    top: 18px;
+    right: 0;
+}
+
+.user-name{
+    font-size: 14px;
+}
+
+.sugg{
+    height: 20px;
+    
+}
+
+.active-friend{
+    font-size: 9px;
+    top: -1px;
+    right: 0;
+}
+
+.up-birth{
+    font-size: 9px;
+    top: 28px;
+    right: 0;
+}
+
+
+.unfollow {
+    font-size: 14px;
+    color: #55bff8;
+    background-color: #fff;
+    border: 1px dashed #55bff8;
+    margin-right: 5px;    
+}
+
+.unfollow:hover {
+    background-color: #F0F9FF;
+}
+
+.comment{
+    font-size: 14px;
+}
